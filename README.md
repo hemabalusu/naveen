@@ -1,4 +1,2 @@
-# naveen
-gfhdbgjdfngjkfd
-dfbfbhfgh
-fghfghbfshbsfg
+#! /bin/bash
+echo "file in naveen"
